@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="medivia_beastiary">Medivia Beastiary!</string>
+    <string name="demon">demon</string>
+    <string name="demons_desc">Demons have 8200 hitpoints. They are immune to fire damage and cannot be paralysed. Moreover, they are strong against death, earth, energy and physical damage. On the other hand, they are weak against holy and ice damage. These creatures can neither be summoned nor convinced. In addition, they are able to sense invisible creatures.</string>
+</resources>

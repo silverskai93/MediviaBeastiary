@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toptitle">30dp</dimen>
+    <dimen name="bottomtitle">35dp</dimen>
+    <dimen name="titlestart">35dp</dimen>
+    <dimen name="TV1size">42sp</dimen>
+</resources>
